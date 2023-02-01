@@ -53,6 +53,6 @@ public class DBFacadeTest {
             }
         } catch (SQLException throwables) {
             throwables.printStackTrace();
-        } ;
+        }
     }
 }

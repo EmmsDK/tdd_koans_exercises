@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="facade.DBFacadeTest" time="0.849" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="facade.DBFacadeTest" time="1.553" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="DK"/>
     <property name="sun.boot.library.path" value="/Users/emiliocastrolagunas/Library/Java/JavaVirtualMachines/corretto-11.0.17/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/emiliocastrolagunas/Documents/GitHub/tdd_koans_exercises/target/surefire/surefirebooter9639642490562698711.jar /Users/emiliocastrolagunas/Documents/GitHub/tdd_koans_exercises/target/surefire 2023-02-01T15-26-10_877-jvmRun1 surefire2603266131005417412tmp surefire_01344474272134432302tmp"/>
+    <property name="sun.java.command" value="/Users/emiliocastrolagunas/Documents/GitHub/tdd_koans_exercises/target/surefire/surefirebooter8633624751243743867.jar /Users/emiliocastrolagunas/Documents/GitHub/tdd_koans_exercises/target/surefire 2023-02-01T16-14-24_934-jvmRun1 surefire4339817402788389378tmp surefire_015601756445175234729tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/emiliocastrolagunas/Documents/GitHub/tdd_koans_exercises/target/test-classes:/Users/emiliocastrolagunas/Documents/GitHub/tdd_koans_exercises/target/classes:/Users/emiliocastrolagunas/.m2/repository/org/junit/jupiter/junit-jupiter/5.9.2/junit-jupiter-5.9.2.jar:/Users/emiliocastrolagunas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar:/Users/emiliocastrolagunas/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/emiliocastrolagunas/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar:/Users/emiliocastrolagunas/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/emiliocastrolagunas/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.2/junit-jupiter-params-5.9.2.jar:/Users/emiliocastrolagunas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar:/Users/emiliocastrolagunas/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar:/Users/emiliocastrolagunas/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar:/Users/emiliocastrolagunas/.m2/repository/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.jar:/Users/emiliocastrolagunas/.m2/repository/mysql/mysql-connector-java/8.0.26/mysql-connector-java-8.0.26.jar:/Users/emiliocastrolagunas/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/emiliocastrolagunas/Documents/GitHub/tdd_koans_exercises/target/surefire/surefirebooter9639642490562698711.jar"/>
+    <property name="surefire.real.class.path" value="/Users/emiliocastrolagunas/Documents/GitHub/tdd_koans_exercises/target/surefire/surefirebooter8633624751243743867.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="11.0.17+8-LTS"/>
@@ -62,5 +62,5 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="test" classname="facade.DBFacadeTest" time="0.837"/>
+  <testcase name="test" classname="facade.DBFacadeTest" time="1.521"/>
 </testsuite>
